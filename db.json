@@ -1,4 +1,4 @@
-[
+{
   {
       "event":"Event 1",
       "eventLocation":"Bangalore",
@@ -11,4 +11,4 @@
       "eventDescription":"Dubai is another place to host so,e, first event is going to happen. Please be careful about it",
       "img": "https://picsum.photos/900/500?random&t=3"
  }
-]
+}
